@@ -6,3 +6,5 @@ def reverse_each_word(string)
   end
   new_string.join(" ")
 end
+
+def 
